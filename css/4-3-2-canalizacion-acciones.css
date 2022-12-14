@@ -1,0 +1,234 @@
+/* screen - 4-3-2-canalizacion-acciones */
+
+.x4-3-2-canalizacion-acciones {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  width: 360px;
+}
+
+.x4-3-2-canalizacion-acciones .overlap-group {
+  height: 673px;
+  margin-top: -33px;
+  position: relative;
+  width: 360px;
+}
+
+.x4-3-2-canalizacion-acciones .ellipse-178 {
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 360px;
+}
+
+.x4-3-2-canalizacion-acciones .ellipse-179 {
+  height: 503px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 243px;
+}
+
+.x4-3-2-canalizacion-acciones .ellipse-180 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 360px;
+  width: 321px;
+}
+
+.x4-3-2-canalizacion-acciones .ellipse-181 {
+  height: 526px;
+  left: 185px;
+  position: absolute;
+  top: 124px;
+  width: 175px;
+}
+
+.x4-3-2-canalizacion-acciones .rectangle-173 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  left: 49px;
+  position: absolute;
+  top: 46px;
+  width: 41px;
+}
+
+.x4-3-2-canalizacion-acciones .rectangle-174 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  left: 49px;
+  position: absolute;
+  top: 56px;
+  width: 41px;
+}
+
+.x4-3-2-canalizacion-acciones .rectangle-175 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  left: 49px;
+  position: absolute;
+  top: 65px;
+  width: 41px;
+}
+
+.x4-3-2-canalizacion-acciones .list-item {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.39px solid;
+  border-color: var(--loblolly);
+  border-radius: 9.33px;
+  display: flex;
+  gap: 12.45px;
+  left: 53px;
+  padding: 12.45px;
+  position: absolute;
+  top: 493px;
+  width: 254px;
+}
+
+.x4-3-2-canalizacion-acciones .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 3.11px;
+}
+
+.x4-3-2-canalizacion-acciones .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 15.6px;
+  margin-top: -0.78px;
+  white-space: nowrap;
+}
+
+.x4-3-2-canalizacion-acciones .list-item-1 {
+  align-items: center;
+  background-color: var(--solitude);
+  border-radius: 9.33px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 12.45px;
+  left: 53px;
+  padding: 12.45px;
+  position: absolute;
+  top: 253px;
+  width: 254px;
+}
+
+.x4-3-2-canalizacion-acciones .list-item-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.39px solid;
+  border-color: var(--loblolly);
+  border-radius: 9.33px;
+  display: flex;
+  gap: 12.45px;
+  left: 53px;
+  padding: 12.45px;
+  position: absolute;
+  top: 205px;
+  width: 254px;
+}
+
+.x4-3-2-canalizacion-acciones .list-item-3 {
+  align-items: center;
+  background-color: var(--solitude);
+  border-radius: 9.33px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 12.45px;
+  left: 53px;
+  padding: 12.45px;
+  position: absolute;
+  top: 301px;
+  width: 254px;
+}
+
+.x4-3-2-canalizacion-acciones .list-item-4 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.39px solid;
+  border-color: var(--loblolly);
+  border-radius: 9.33px;
+  display: flex;
+  gap: 12.45px;
+  left: 53px;
+  padding: 12.45px;
+  position: absolute;
+  top: 349px;
+  width: 254px;
+}
+
+.x4-3-2-canalizacion-acciones .list-item-5 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.39px solid;
+  border-color: var(--loblolly);
+  border-radius: 9.33px;
+  display: flex;
+  gap: 12.45px;
+  left: 53px;
+  padding: 12.45px;
+  position: absolute;
+  top: 397px;
+  width: 254px;
+}
+
+.x4-3-2-canalizacion-acciones .list-item-6 {
+  align-items: center;
+  background-color: var(--solitude);
+  border-radius: 9.33px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 12.45px;
+  left: 53px;
+  padding: 12.45px;
+  position: absolute;
+  top: 445px;
+  width: 254px;
+}
+
+.x4-3-2-canalizacion-acciones .button-primary {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 9.72px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  display: flex;
+  gap: 8px;
+  height: 32px;
+  justify-content: center;
+  left: 157px;
+  overflow: hidden;
+  padding: 12px 16px;
+  position: absolute;
+  top: 619px;
+  width: 45px;
+}
+
+.x4-3-2-canalizacion-acciones .button {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -8.50px;
+  margin-left: -4.00px;
+  margin-top: -10.50px;
+  width: fit-content;
+}
+
+.x4-3-2-canalizacion-acciones .acciones-realizadas {
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 133px;
+  width: 255px;
+}

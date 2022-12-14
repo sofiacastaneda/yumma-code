@@ -1,0 +1,107 @@
+/* screen - 0-1-pantalla-cargando */
+
+.x0-1-pantalla-cargando {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x0-1-pantalla-cargando .overlap-group {
+  height: 1009px;
+  margin-left: -348px;
+  margin-top: -352px;
+  position: relative;
+  width: 1015px;
+}
+
+.x0-1-pantalla-cargando .ellipse-178 {
+  background-color: var(--fuel-yellow);
+  border-radius: 267.78px;
+  height: 536px;
+  left: 108px;
+  position: absolute;
+  top: 473px;
+  width: 536px;
+}
+
+.x0-1-pantalla-cargando .ellipse-179 {
+  background-color: var(--blue-ribbon-2);
+  border-radius: 267.78px;
+  height: 536px;
+  left: 479px;
+  position: absolute;
+  top: 329px;
+  width: 536px;
+}
+
+.x0-1-pantalla-cargando .ellipse-181 {
+  background-color: var(--casal);
+  border-radius: 267.78px;
+  height: 536px;
+  left: 245px;
+  position: absolute;
+  top: 0;
+  width: 536px;
+}
+
+.x0-1-pantalla-cargando .ellipse-180 {
+  background-color: var(--cardinal-pink);
+  border-radius: 267.78px;
+  height: 536px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 536px;
+}
+
+.x0-1-pantalla-cargando .avatar {
+  background-color: var(--white);
+  border-radius: 87.99px;
+  height: 117px;
+  left: 470px;
+  position: absolute;
+  top: 596px;
+  width: 117px;
+}
+
+.x0-1-pantalla-cargando .mask-group {
+  align-items: flex-end;
+  display: flex;
+  gap: 8512px;
+  height: 98px;
+  left: 480px;
+  min-width: 98px;
+  position: absolute;
+  top: 606px;
+}
+
+.x0-1-pantalla-cargando .medicina-1-1 {
+  height: 98px;
+  object-fit: cover;
+  width: 98px;
+}
+
+.x0-1-pantalla-cargando .avatar-1 {
+  height: 98px;
+  margin-bottom: -840px;
+  width: 98px;
+}
+
+.x0-1-pantalla-cargando .cargando {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 471px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 845px;
+  width: 116px;
+}

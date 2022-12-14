@@ -1,0 +1,320 @@
+/* screen - registro-ancestral-tratamiento-infante-36 */
+
+.registro-ancestral-tratamiento-infante-36 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  height: 640px;
+  width: 360px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .overlap-group {
+  height: 671px;
+  margin-top: -31px;
+  position: relative;
+  width: 360px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .ellipse-182 {
+  height: 361px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 151px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .ellipse-191 {
+  height: 640px;
+  left: 11px;
+  position: absolute;
+  top: 31px;
+  width: 349px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .ellipse-192 {
+  height: 362px;
+  left: 0;
+  position: absolute;
+  top: 309px;
+  width: 266px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .ellipse-194 {
+  height: 238px;
+  left: 208px;
+  position: absolute;
+  top: 433px;
+  width: 152px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .tiene-la-criatura-parsitos {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 223px;
+  width: 194px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .le-dio-a-la-criatura-bebedizos-hoy {
+  left: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 335px;
+  width: 151px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .le-dio-a-la-criatura-ungentos-hoy {
+  left: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 467px;
+  width: 151px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .progress-bar {
+  align-items: flex-start;
+  background-color: var(--mystic-3);
+  border-radius: 4px;
+  display: flex;
+  height: 7px;
+  left: 47px;
+  overflow: hidden;
+  position: absolute;
+  top: 350px;
+  transform: rotate(90.00deg);
+  width: 549px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .rectangle-1 {
+  background-color: var(--blue-ribbon);
+  border-radius: 8px;
+  height: 7px;
+  margin-left: -1px;
+  width: 549px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .tiene-la-criatura-mal-de-ojo {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 12.5px;
+  font-weight: 700;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 98px;
+  width: 146px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .button-primary {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 9.72px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 8px;
+  height: 32px;
+  justify-content: center;
+  left: 115px;
+  overflow: hidden;
+  padding: 12px 16px;
+  position: absolute;
+  top: 611px;
+  width: 114px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .button {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -4.00px;
+  margin-top: -6.00px;
+  width: fit-content;
+}
+
+.registro-ancestral-tratamiento-infante-36 .list-item-2 {
+  align-items: center;
+  background-color: var(--mystic);
+  border-radius: 11.09px;
+  display: flex;
+  gap: 14.79px;
+  height: 52px;
+  left: 83px;
+  padding: 14.79px;
+  position: absolute;
+  top: 525px;
+  width: 84px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 3.7px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18.5px;
+  margin-top: -0.92px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registro-ancestral-tratamiento-infante-36 .checkbox {
+  background-color: var(--blue-ribbon);
+  border: 1.39px solid;
+  border-radius: 5.55px;
+  height: 22.19px;
+  margin-bottom: -0.13px;
+  margin-top: -0.13px;
+  min-width: 22.19px;
+  position: relative;
+}
+
+.registro-ancestral-tratamiento-infante-36 .check {
+  height: 11px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 11px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .list-item-3 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.46px solid;
+  border-color: var(--loblolly);
+  border-radius: 11.09px;
+  display: flex;
+  gap: 14.79px;
+  height: 51px;
+  left: 184px;
+  padding: 14.79px;
+  position: absolute;
+  top: 526px;
+  width: 88px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .checkbox-1 {
+  border: 1.39px solid;
+  border-color: var(--loblolly);
+  border-radius: 5.55px;
+  height: 22.19px;
+  margin-bottom: -0.39px;
+  margin-top: -0.39px;
+  min-width: 22.19px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .list-item-4 {
+  align-items: center;
+  background-color: var(--mystic);
+  border-radius: 11.09px;
+  display: flex;
+  gap: 14.79px;
+  height: 52px;
+  left: 86px;
+  padding: 14.79px;
+  position: absolute;
+  top: 398px;
+  width: 84px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .list-item-5 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.46px solid;
+  border-color: var(--loblolly);
+  border-radius: 11.09px;
+  display: flex;
+  gap: 14.79px;
+  height: 51px;
+  left: 187px;
+  padding: 14.79px;
+  position: absolute;
+  top: 399px;
+  width: 88px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .group-71 {
+  align-items: flex-start;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 17px;
+  height: 52px;
+  left: 79px;
+  min-width: 189px;
+  position: absolute;
+  top: 252px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .list-item {
+  align-items: center;
+  background-color: var(--mystic);
+  border-radius: 11.09px;
+  display: flex;
+  gap: 14.79px;
+  height: 52px;
+  padding: 14.79px;
+  width: 84px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .list-item-1 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--white);
+  border: 0.46px solid;
+  border-color: var(--loblolly);
+  border-radius: 11.09px;
+  display: flex;
+  gap: 14.79px;
+  height: 51px;
+  padding: 14.79px;
+  width: 88px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .group-72 {
+  align-items: flex-start;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 17px;
+  height: 52px;
+  left: 81px;
+  min-width: 189px;
+  position: absolute;
+  top: 144px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .group-76 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 29px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 22px;
+  min-height: 87px;
+  padding: 16.0px 27px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.registro-ancestral-tratamiento-infante-36 .rectangle-173 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  margin-top: 30px;
+  width: 41px;
+}

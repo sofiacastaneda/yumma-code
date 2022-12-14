@@ -1,0 +1,120 @@
+/* screen - 3-2-3-riesgo */
+
+.x3-2-3-riesgo {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  width: 360px;
+}
+
+.x3-2-3-riesgo .overlap-group {
+  height: 673px;
+  margin-top: -33px;
+  position: relative;
+  width: 360px;
+}
+
+.x3-2-3-riesgo .ellipse-178 {
+  height: 352px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 360px;
+}
+
+.x3-2-3-riesgo .ellipse-179 {
+  height: 333px;
+  left: 0;
+  position: absolute;
+  top: 340px;
+  width: 221px;
+}
+
+.x3-2-3-riesgo .ellipse-180 {
+  height: 396px;
+  left: 121px;
+  position: absolute;
+  top: 277px;
+  width: 239px;
+}
+
+.x3-2-3-riesgo .ellipse-181 {
+  height: 299px;
+  left: 243px;
+  position: absolute;
+  top: 33px;
+  width: 117px;
+}
+
+.x3-2-3-riesgo .rectangle-173 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  margin-top: 30px;
+  width: 41px;
+}
+
+.x3-2-3-riesgo .est-segura-de-que {
+  left: 107px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 309px;
+  width: 146px;
+}
+
+.x3-2-3-riesgo .button-primary {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 11.24px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  display: flex;
+  gap: 9.25px;
+  height: 37px;
+  justify-content: center;
+  left: 186px;
+  overflow: hidden;
+  padding: 13.88px 18.5px;
+  position: absolute;
+  top: 562px;
+  width: 103px;
+}
+
+.x3-2-3-riesgo .button {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -2.72px;
+  margin-left: -1.00px;
+  margin-top: -5.03px;
+  width: fit-content;
+}
+
+.x3-2-3-riesgo .button-primary-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 11.24px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  display: flex;
+  gap: 9.25px;
+  height: 37px;
+  justify-content: center;
+  left: 68px;
+  overflow: hidden;
+  padding: 13.88px 18.5px;
+  position: absolute;
+  top: 562px;
+  width: 103px;
+}
+
+.x3-2-3-riesgo .button-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -2.72px;
+  margin-top: -5.03px;
+  width: fit-content;
+}

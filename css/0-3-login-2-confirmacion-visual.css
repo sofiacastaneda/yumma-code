@@ -1,0 +1,271 @@
+/* screen - 0-3-login-2-confirmacion-visual */
+
+.x0-3-login-2-confirmacion-visual {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x0-3-login-2-confirmacion-visual .overlap-group {
+  height: 539px;
+  margin-left: -285px;
+  margin-top: -323px;
+  position: relative;
+  width: 554px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-188 {
+  background-color: var(--blue-ribbon-2);
+  border-radius: 205.24px;
+  height: 410px;
+  left: 144px;
+  position: absolute;
+  top: 0;
+  width: 410px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-190 {
+  background-color: var(--cardinal-pink);
+  border-radius: 205.24px;
+  height: 410px;
+  left: 0;
+  position: absolute;
+  top: 118px;
+  width: 410px;
+}
+
+.x0-3-login-2-confirmacion-visual .inicio-de-sesin-exitoso {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 395px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 520px;
+  width: 149px;
+}
+
+.x0-3-login-2-confirmacion-visual .name {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 10px;
+  width: fit-content;
+}
+
+.x0-3-login-2-confirmacion-visual .yolima-mosquera {
+  color: var(--eerie-black);
+  font-family: var(--font-family-inter);
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.08px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: center;
+  width: fit-content;
+}
+
+.x0-3-login-2-confirmacion-visual .sabedora {
+  color: #71727a;
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.12px;
+  line-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x0-3-login-2-confirmacion-visual .overlap-group3 {
+  align-self: flex-end;
+  height: 690px;
+  margin-right: -319.48px;
+  margin-top: 24px;
+  position: relative;
+  width: 587px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-container {
+  height: 623px;
+  left: 0;
+  position: absolute;
+  top: 67px;
+  width: 587px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-189 {
+  background-color: var(--casal);
+  border-radius: 205.24px;
+  height: 410px;
+  left: 0;
+  position: absolute;
+  top: 213px;
+  width: 410px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-187 {
+  background-color: var(--fuel-yellow);
+  border-radius: 205.24px;
+  height: 410px;
+  left: 177px;
+  position: absolute;
+  top: 0;
+  width: 410px;
+}
+
+.x0-3-login-2-confirmacion-visual .button-primary {
+  align-items: center;
+  background-color: var(--blue-2);
+  border-radius: 9.72px;
+  display: flex;
+  gap: 8px;
+  height: 38px;
+  justify-content: center;
+  left: 18px;
+  overflow: hidden;
+  padding: 12px 16px;
+  position: absolute;
+  top: 109px;
+  width: 145px;
+}
+
+.x0-3-login-2-confirmacion-visual .button {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.50px;
+  width: fit-content;
+}
+
+.x0-3-login-2-confirmacion-visual .overlap-group1 {
+  height: 88px;
+  left: 44px;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+
+.x0-3-login-2-confirmacion-visual .avatar {
+  align-items: flex-start;
+  background-color: var(--solitude);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 88px;
+  left: 0;
+  overflow: hidden;
+  padding: 0.0px 11.0px;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-1 {
+  align-self: flex-end;
+  background-color: var(--sail);
+  border-radius: 17.62px;
+  height: 35px;
+  margin-right: 15.42px;
+  margin-top: 13px;
+  width: 35px;
+}
+
+.x0-3-login-2-confirmacion-visual .rectangle-1 {
+  height: 33px;
+  width: 66px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-104 {
+  height: 17px;
+  left: 35px;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-105 {
+  height: 62px;
+  left: 27px;
+  position: absolute;
+  top: 18px;
+  width: 9px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-106 {
+  height: 60px;
+  left: 21px;
+  position: absolute;
+  top: 19px;
+  width: 12px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-107 {
+  height: 58px;
+  left: 52px;
+  position: absolute;
+  top: 19px;
+  width: 11px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-108 {
+  height: 58px;
+  left: 54px;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-109 {
+  height: 51px;
+  left: 53px;
+  position: absolute;
+  top: 17px;
+  width: 15px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-110 {
+  height: 58px;
+  left: 12px;
+  position: absolute;
+  top: 16px;
+  width: 23px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-111 {
+  height: 7px;
+  left: 37px;
+  position: absolute;
+  top: 38px;
+  width: 13px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-112 {
+  height: 5px;
+  left: 36px;
+  position: absolute;
+  top: 26px;
+  width: 4px;
+}
+
+.x0-3-login-2-confirmacion-visual .vector-113 {
+  height: 5px;
+  left: 44px;
+  position: absolute;
+  top: 27px;
+  width: 3px;
+}
